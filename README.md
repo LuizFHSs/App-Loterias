@@ -67,3 +67,6 @@ O LoteriaApp permite ao usuário:
 - Os jogos são salvos em Jogos.json na pasta Jogos LoteriaApp dentro de Documentos.
 - O layout foi projetado para se manter organizado em resoluções a partir de 900x600.
 - Para fontes customizadas, adicione o arquivo .ttf como recurso e carregue via PrivateFontCollection.
+
+## Resultado e Feedback
+O aplicativo foi testado e aprovado pelo meu avô, principal usuário-alvo. Segundo ele, o sistema é “fácil de usar, bem elaborado, prático e rápido na conferência dos jogos”. A aplicação conseguiu substituir com eficiência sua planilha manual, trazendo mais agilidade e organização.
